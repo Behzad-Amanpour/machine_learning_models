@@ -1,5 +1,5 @@
 # Decision Tree (sklearn in Python)
-Please visit my **.pdf file** for some theoretical explanations.
+Please visit my **Decision Tree.pdf file** for some theoretical explanations.
 
 In **code.py** you will see:
 
@@ -10,3 +10,5 @@ In **code.py** you will see:
 - **Pruning (Regularization)** of DT
 
 - **Optimization** of DT (**Grid Search** for DT Parameters)
+
+In **visualization.py** you will see how to plot a decision tree
