@@ -6,6 +6,7 @@ Inputs:
 
 from sklearn.model_selection import cross_val_score
 from scipy.stats import zscore
+X = zscore( X) # zscore(X, axis=1) calculates zscore in rows
 
 Classification_result = {}
 
